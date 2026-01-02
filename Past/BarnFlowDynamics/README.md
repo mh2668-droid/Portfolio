@@ -3,7 +3,7 @@
 ## Introduction
 
 
-BarnFlowDynamics is a simulation project using open source software "OpenFOAM" for modeling airflow dynamics and heat transfer in a Large-scale agricultural environment. This project was created and developed by **Mr. M H** and This repository contains the source code, configuration files, mesh generation files and animation results.
+BarnFlowDynamics is a simulation project using open source software "OpenFOAM" for modeling airflow dynamics and heat transfer in a Large-scale agricultural environment. This project was created and developed by **Mr. M H** and The redirect gitlab respo contains the source code, configuration files, mesh generation files and animation results.
 
 
 
