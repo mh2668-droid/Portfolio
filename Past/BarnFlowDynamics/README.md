@@ -21,11 +21,11 @@ All models tested/built with two industrial fans
 
 1. [Model 1](https://gitlab.msu.edu/huangm23/barnflowdynamics/-/tree/main/model%201): Empty barn - airiflow only
 
-![Image](./animation/model 1.gif)
+![Image](model_1.gif)
 
 2. [Model 2](https://gitlab.msu.edu/huangm23/barnflowdynamics/-/tree/main/model%202): barn with fake cages and 84 ceiling fans - airflow and heat transfer
 
-![Image](./animation/model 2.gif)
+![Image](model_2.gif)
 
 3. [Model 3](https://gitlab.msu.edu/huangm23/barnflowdynamics/-/tree/main/model%203): standard barn with equipment - airflow and heat transfer 
 
