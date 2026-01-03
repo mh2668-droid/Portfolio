@@ -3,7 +3,7 @@
 ## Overview
 This project is an ongoing research and development effort focused on building a fully autonomous aquatic robot for managing invasive submerged vegetation. The system is being developed as part of the Collective Embodied Intelligence Laboratory at Cornell University.
 
-The robot is designed as a **self-contained underwater intervention platform**, combining sensing, interaction, and onboard collection to reduce fragmentation and regrowth commonly associated with existing mechanical removal methods.
+The robot is designed as a self-contained underwater intervention platform, combining sensing, interaction, and onboard collection to reduce fragmentation and regrowth commonly associated with existing mechanical removal methods.
 
 ## Conceptual Design
 <img src="robot.png" width="700"/>
@@ -14,7 +14,7 @@ This model is illustrative only and does **not** represent the final mechanical 
 The platform architecture emphasizes modularity and coordinated underwater operation rather than surface-based harvesting.
 
 ## Project Scope
-The goal of this project is to demonstrate a **cohesive autonomous system** capable of:
+The goal of this project is to demonstrate a cohesive autonomous system capable of:
 
 - Operating in shallow aquatic environments
 - Interacting directly with submerged vegetation
@@ -41,5 +41,5 @@ All development is being carried out independently under faculty supervision.
 - **Timeline:** Aug 2025 – Present  
 
 ## Status
-This repository documents an **active research prototype**.  
+This repository documents an active research prototype.  
 Details are intentionally scoped to system-level concepts while implementation evolves toward a working prototype.
