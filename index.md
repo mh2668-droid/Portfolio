@@ -106,8 +106,6 @@
     <section class="about">
       <div class="text">
         <h2>About Me</h2>
-        <p><strong>Hi, I’m Ming.</strong></p>
-
         <p>
           I’m currently an M.S. student at
           <a href="https://www.cornell.edu" target="_blank" rel="noreferrer">Cornell University</a> 
