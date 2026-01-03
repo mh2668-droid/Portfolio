@@ -281,5 +281,21 @@
   <script>
     document.getElementById("y").textContent = new Date().getFullYear();
   </script>
+
+  <script>
+  document.querySelectorAll(".acc-btn").forEach(btn => {
+    btn.addEventListener("click", () => {
+      const id = btn.getAttribute("data-target");
+      const panel = document.getElementById(id);
+
+      // toggle panel
+      const isOpen = panel.style.display === "block";
+      panel.style.display = isOpen ? "none" : "block";
+    });
+  });
+  </script>
+
+
+  
 </body>
 </html>
