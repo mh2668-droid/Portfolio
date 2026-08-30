@@ -12,7 +12,7 @@ The robot is designed as a self contained underwater and abovewater intervention
 ## Conceptual Design
 <img src="robot.png" width="680"/>
 
-The figure above shows an **early-stage conceptual model** and does **not** represent the final mechanical design.
+The figure above shows an early stage conceptual model and does not represent the final mechanical design.
 
 The platform architecture emphasizes modularity and coordinated underwater operation, with the goal of enabling vegetation removal at any depth and location rather than being limited to surface based harvesting.
 
