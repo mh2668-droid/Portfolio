@@ -8,6 +8,9 @@ In parallel with the technical development, the project is being explored for co
 The robot is designed as a self contained underwater and abovewater intervention platform, combining sensing, interaction, and onboard collection to reduce fragmentation and regrowth commonly associated with existing mechanical removal methods.
 
 
+Project Update: https://mh2668-droid.github.io/TheManatee/
+
+
 
 ## Conceptual Design
 <img src="robot.png" width="680"/>
