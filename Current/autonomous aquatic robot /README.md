@@ -17,15 +17,15 @@ The first integrated prototype combines a robotic surface vessel with an underwa
 
 Initial field testing at Cayuga Lake evaluated the system in a real aquatic environment and identified challenges including wave disturbances, underwater positioning, and cutting performance. These results are guiding the next design iteration.
 
-### [Field Test Videos →](https://mh2668-droid.github.io/TheManatee/)
+### [Project Update →](https://mh2668-droid.github.io/TheManatee/)
 
 ---
 
 ## NERC 2026
 
-<img src="NERC.png" width="800"/>
+<img src="NERC.png" width="600"/>
 
-Presented the project at the **2026 Northeast Robotics Colloquium (NERC) at Princeton University**, including the first prototype, field testing, and future research directions.
+Presented the project at the **2026 Northeast Robotics Colloquium at Princeton University**, including the first prototype, field testing, and future research directions.
 
 ---
 
@@ -39,15 +39,14 @@ Current research focuses on:
 - Operation across different depths and locations
 - Robustness to waves and environmental disturbances
 
-The long-term goal is an integrated robotic platform capable of monitoring, mapping, targeted intervention, and collection in aquatic environments.
+The long term goal is an integrated robotic platform capable of monitoring, mapping, targeted intervention, and collection in aquatic environments.
 
 ---
 
 ## Links
 
 [Field Test Videos](https://mh2668-droid.github.io/TheManatee/)  
-[Collective Embodied Intelligence Lab – Aquatic Robotics](https://cei.ece.cornell.edu/research-2/aquatic-robotics/)
+[Collective Embodied Intelligence Lab's Aquatic Robotics Research](https://cei.ece.cornell.edu/research-2/aquatic-robotics/)
 
-**Ming Huang**  
-Cornell University  
+**Ming Huang**   
 mh2668@cornell.edu
