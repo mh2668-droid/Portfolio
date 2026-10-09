@@ -1,41 +1,53 @@
-# Autonomous Aquatic Robot for Invasive Vegetation Management
+# Robotic System for Aquatic Vegetation Management
+
+**Cornell University | Collective Embodied Intelligence Lab**  
+**Advisor: Prof. Kirstin Petersen**
 
 ## Overview
-This project is an ongoing research and development effort focused on building a fully autonomous aquatic robot for managing biomass in aquatic environment. The system is being developed as part of the Collective Embodied Intelligence Laboratory at Cornell University. 
 
-In parallel with the technical development, the project is being explored for commercialization, with ongoing customer discovery and participation in entrepreneurship and startup accelerator programs. 
+An ongoing research project developing an aquatic robotic system for monitoring, mapping, and targeted removal of aquatic vegetation.
 
-The robot is designed as a self contained underwater and abovewater intervention platform, combining sensing, interaction, and onboard collection to reduce fragmentation and regrowth commonly associated with existing mechanical removal methods.
+The system combines a robotic surface platform with underwater sensing, intervention, and collection, with the goal of improving access to areas where conventional monitoring and removal methods are difficult to deploy.
 
+---
 
-Project Update: https://mh2668-droid.github.io/TheManatee/
+## Prototype & Field Testing
 
+The first integrated prototype combines a robotic surface vessel with an underwater cutting and suction system.
 
+Initial field testing at Cayuga Lake evaluated the system in a real aquatic environment and identified challenges including wave disturbances, underwater positioning, and cutting performance. These results are guiding the next design iteration.
 
-## Conceptual Design
-<img src="robot.png" width="680"/>
+### [Field Test Videos →](https://mh2668-droid.github.io/TheManatee/)
 
-The figure above shows an early stage conceptual model and does not represent the final mechanical design.
+---
 
-The platform architecture emphasizes modularity and coordinated underwater operation, with the goal of enabling vegetation removal at any depth and location rather than being limited to surface based harvesting.
+## NERC 2026
 
-## Project Scope
-The goal of this project is to demonstrate a cohesive autonomous system capable of:
+<img src="NERC.png" width="800"/>
 
-- Operating in shallow aquatic environments
-- Interacting directly with submerged vegetation
-- Coordinating cutting, handling, and collection below the waterline
-- Retaining biomass onboard to limit downstream dispersal
+Presented the project at the **2026 Northeast Robotics Colloquium (NERC) at Princeton University**, including the first prototype, field testing, and future research directions.
 
-## Current Development Focus
-Active work on this project includes:
+---
 
-- Integrating an underwater manipulator end effector for targeted interaction
-- Developing a unified underwater module that coordinates sensing cutting, pumping, and collection
-- Field test and iteration
+## Current Development
 
+Current research focuses on:
 
-# STAY TUNED! 
+- Monitoring and mapping aquatic vegetation and the lake floor
+- Underwater deployment and positioning
+- Targeted vegetation removal and collection
+- Operation across different depths and locations
+- Robustness to waves and environmental disturbances
 
-### Interested? 
-### Contact: mh2668@cornell.edu for more details. 
+The long-term goal is an integrated robotic platform capable of monitoring, mapping, targeted intervention, and collection in aquatic environments.
+
+---
+
+## Links
+
+[Field Test Videos](https://mh2668-droid.github.io/TheManatee/)  
+[Collective Embodied Intelligence Lab – Aquatic Robotics](https://cei.ece.cornell.edu/research-2/aquatic-robotics/)
+
+**Ming Huang**  
+Cornell University  
+mh2668@cornell.edu
